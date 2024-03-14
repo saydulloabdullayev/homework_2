@@ -1,0 +1,20 @@
+{% extends 'Weekdays/uz_week.html' %}
+
+{% block title %}
+    Weekdays
+{% endblock %}
+
+{% block content %}
+
+    <h1>Weekdays</h1>
+
+    <ul>
+    {% for day in Weekdays %}
+        <li>{{ day }}</li>
+
+    {% endfor %}
+
+    </ul>
+
+
+{% endblock %}

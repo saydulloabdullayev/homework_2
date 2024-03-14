@@ -1,0 +1,6 @@
+6.4 -->HTML va CSS
+6.5 -->Bootstrap
+6.6 -->Javascript
+6.7 -->Introduction to Django
+6.8 -->Django - views & urls
+6.9 -->Templates and Static Files

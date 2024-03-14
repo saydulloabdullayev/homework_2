@@ -1,0 +1,16 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Pupil Detail</title>
+</head>
+<body>
+    <h1>Pupil Detail</h1>
+    {% if pupil %}
+        <p>ID: {{ pupil.id }}</p>
+        <p>Name: {{ pupil.name }}</p>
+    {% else %}
+        <p>No pupil found with the specified ID.</p>
+    {% endif %}
+</body>
+</html>
