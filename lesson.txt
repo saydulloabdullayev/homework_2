@@ -18,3 +18,4 @@ I. Django fundamentals
           Learn about Django templates and template inheritance.
           Create HTML templates and render dynamic content.
           Serve static files (CSS, JavaScript, images) in Django.
+
