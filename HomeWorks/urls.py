@@ -26,6 +26,7 @@ urlpatterns = [
     path('weekdays/', include('weekdays.urls')),
     path('themes/', include('Themes.urls')),
     path('pupils/', include('Pupils.urls')),
+    # path('news/', include('app_news.urls')),
     # path('weekdays/', include('weekdays.urls')),
 
 

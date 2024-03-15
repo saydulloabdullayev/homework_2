@@ -8,7 +8,4 @@ urlpatterns = [
     path('<int:id>/', views.pupil_detail, name='pupil_detail'),
 ]
 
-# urlpatterns=[
-#     path(" detail/", detail ),
-#     path("list/", list)
-# ]
+

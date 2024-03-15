@@ -1,6 +1,20 @@
-6.4 -->HTML va CSS
-6.5 -->Bootstrap
-6.6 -->Javascript
-6.7 -->Introduction to Django
-6.8 -->Django - views & urls
-6.9 -->Templates and Static Files
+Roadmap for Django
+Prepare to learn Django:
+    1. HTML, CSS
+    2. Bootstrap
+    3. Javascript
+
+I. Django fundamentals
+                      Setting Up and Basics
+    4. Introduction to Django:
+          Install Django and set up your development environment.
+          Create your first Django project and understand its structure.
+          Learn about Django's MTV (Model-Template-View) architecture.
+    5. Views and URLs
+          Understand the role of views in Django.
+          Define URL patterns and map them to views.
+          Implement basic views to render templates.
+    6. Templates and Static Files:
+          Learn about Django templates and template inheritance.
+          Create HTML templates and render dynamic content.
+          Serve static files (CSS, JavaScript, images) in Django.
